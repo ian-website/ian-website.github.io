@@ -11,11 +11,11 @@ hidetitle: false
 
 Although I spend much of my time in Wellington at the Beehive, I like to make myself available to the constituents of the Hamilton East electorate at my Community Clinics. 
 
-These sessions offer 45 minutes of face to face time to: 
+These sessions offer 45 minutes of face to face time to:
 
-• Raise issues that matter to you.
-• Seek advice or support.
-• Connect directly with your local MP.
+* Raise issues that matter to you.
+* Seek advice or support.
+* Connect directly with your local MP.
 
 Please come to my *Community Clinics* at the nearest of these libraries to you, on the first Friday of the each month.
 
