@@ -9,7 +9,7 @@ type: text
 hidetitle: false
 ---
 
-Although I spend much of my time in Wellington at the Beehive, I like to make myself available to the constituents of the Hamilton East electorate at my Community Clinics. 
+Although I spend much of my time in Wellington at the Beehive, I like to make myself available to the constituents of the Hamilton East electorate at my *Community Clinics*. 
 
 These sessions offer 45 minutes of face to face time to:
 
@@ -17,10 +17,10 @@ These sessions offer 45 minutes of face to face time to:
 * Seek advice or support.
 * Connect directly with your local MP.
 
-Please come to my *Community Clinics* at the nearest of these libraries to you, on the first Friday of the each month.
+On the first Friday of the each month, please come to my *Community Clinics* at one of these Hamilton East libraries:
 
 * 10:30 Hillcrest Temporary Library at Hamilton Gardens Gate 2.
-* 11:30 Chartwell Library
+* 11:30 Chartwell Library.
 * 12:30 Te Kete Aronui Rototuna Library.
 
-Everyone is welcome and no appointement is required.
+Everyone is welcome and no appointment is required.
