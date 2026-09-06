@@ -15,5 +15,5 @@ To contact me:
 
 * E-mail: <a href="mailto:georgie.dansey@parliament.govt.nz">georgie.dansey@parliament.govt.nz</a>
 
-* Mail: Freepost PO Box 18 888, Parliament Buildings, Wellington 6160
+* Mail: Freepost PO Box 18 888, Parliament Buildings, Wellington 6160.
 
