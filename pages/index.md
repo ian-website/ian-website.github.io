@@ -1,5 +1,5 @@
 ---
-title: Georgie
+title: Georgie - Better Starts Now
 slug: index
 date: 2025-04-14 08:00:00 UTC+09:00
 tags: 
